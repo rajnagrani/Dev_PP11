@@ -20,7 +20,7 @@ git remote add remote_name  https://github.com/*username*/Dev_PP_11.git
 
 #GIT EVERYTIME STEPS:
 git add .(untracked/modified to staged stage)
-git commit -u "comment jo commit me dalna he for reference"(COMMITING is basicallly Saving to UNMODIFIED )
+git commit -m "comment jo commit me dalna he for reference"(COMMITING is basicallly Saving to UNMODIFIED )
 git push -u origin(kaha pe) master(kaha se)
 
 
