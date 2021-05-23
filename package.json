@@ -1,0 +1,25 @@
+{
+  "name": "Dev_pp_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajnagrani/Dev_PP11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajnagrani/Dev_PP11/issues"
+  },
+  "homepage": "https://github.com/rajnagrani/Dev_PP11#readme",
+  "dependencies": {
+    "cherio": "^1.0.0-rc.2",
+    "puppeteer": "^9.1.1",
+    "request": "^2.88.2"
+  }
+}
